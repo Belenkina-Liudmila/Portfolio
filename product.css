@@ -7,8 +7,12 @@
 .text-warning {
     color: #e46c0a !important;
 }
+.p {
+   font-size: 20em; !important;
+}
 .btn-outline-warning {
     border-color: #984807 !important;
+    color: #984807 !important;
 }
 .google {
     color: #B40404; !important;
@@ -31,4 +35,9 @@
 .jumbotron {
    background-image: url(images/header.jpg); !important;
 }
-
+.btn-link {
+   background: url(images/collapse.png); !important;
+   height: 20px;
+   width: 70px;
+   border: 0px; 
+}
